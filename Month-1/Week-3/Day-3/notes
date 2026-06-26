@@ -1,0 +1,14 @@
+install django project
+make a app (event)
+install djangorestframework
+add this in settings.py
+view - for welcom
+url - for welcom 
+model - fields
+python manage.py makemigrations  - 0001_initial.py
+python manage.py migrate   - added event tabel in db
+serelizer - for filter thd data type
+add - view
+url - for adding the event
+get - event from db
+url - for get event
